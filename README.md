@@ -3,7 +3,8 @@
 PDF Chat Bot App is an innovative web application that enables users to engage in interactive conversations with a chatbot using content extracted from PDF files. This project leverages natural language processing (NLP) and machine learning to create an engaging and insightful experience.
 
 ## Demo
-Here's Visit the ([https://platform.openai.com/](https://pdfchatbotapp-au6bh2njx8mk4r5wfuylp5.streamlit.app/))
+Visit Here ((https://pdfchatbotapp-au6bh2njx8mk4r5wfuylp5.streamlit.app/))
+
 ## Features
 
 - **PDF Content Extraction:** The app can process PDF files, extract text, and break it down into manageable chunks for efficient interaction.
