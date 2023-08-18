@@ -19,8 +19,7 @@ import os
 
 
 load_dotenv()
-OPENAI_API_KEY= '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'
-openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 def main():
     
